@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>exo-6</artifactId>
+    <artifactId>le plus grand diviseur commun (PGCD) de deux nombres</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>exo-2</artifactId>
+    <artifactId>exo-2calculer le nième nombre de Fibonacci</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
