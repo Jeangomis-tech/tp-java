@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>exo-7calculer l'exponentiation d'un nombre (base) à une puissance (exposant)</artifactId>
+    <artifactId>exo-7</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
