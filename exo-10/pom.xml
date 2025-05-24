@@ -3,22 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.jc</groupId>
+        <artifactId>tp-java</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.jc</groupId>
-    <artifactId>tp-java</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>exo-1</module>
-        <module>exo-2</module>
-        <module>exo-4</module>
-        <module>exo-6</module>
-        <module>exo-5</module>
-        <module>exo-7</module>
-        <module>exo-8</module>
-        <module>exo-9 Ecrire uur trouver la longueur dune chaine donnee</module>
-        <module>exo-10</module>
-    </modules>
+    <artifactId>exo-10</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
